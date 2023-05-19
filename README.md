@@ -1,1 +1,3 @@
-# C3-Pull
+# C3 Pull for Home Assistant
+
+## Installation

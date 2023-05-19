@@ -1,0 +1,5 @@
+{
+  "name": "C3 Pull",
+  "render_readme": true,
+  "iot_class": "cloud_polling"
+}

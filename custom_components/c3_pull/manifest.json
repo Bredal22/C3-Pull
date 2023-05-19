@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@Bredal22"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/Bredal22/C3-Pull",
+  "domain": "c3_pull",
+  "iot_class": "cloud_polling",
+  "name": "C3 Pull",
+  "requirements": [],
+  "version": "0.0.1"
+}
